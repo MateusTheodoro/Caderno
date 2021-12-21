@@ -1,2 +1,2 @@
-# Caderno de anotações
-Caderno de anotações para cursos.
+# Caderno
+Caderno de anotações e projetos para cursos.
